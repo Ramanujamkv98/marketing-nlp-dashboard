@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+wordcloud
+transformers
+torch
+nltk
+bertopic
+umap-learn
+hdbscan
+scikit-learn
