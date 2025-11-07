@@ -1,13 +1,22 @@
-streamlit
-pandas
-numpy
-plotly
-matplotlib
-wordcloud
-transformers
-torch
-nltk
-bertopic
-umap-learn
-hdbscan
-scikit-learn
+# --- Core Frameworks ---
+streamlit==1.39.0
+
+# --- Data Handling ---
+pandas==2.2.3
+numpy==1.26.4
+
+# --- Visualization ---
+plotly==5.24.1
+matplotlib==3.9.2
+wordcloud==1.9.3
+
+# --- Machine Learning / NLP ---
+scikit-learn==1.5.2
+nltk==3.9.1
+transformers==4.46.0
+torch==2.4.1
+
+# --- Topic Modeling ---
+bertopic==0.16.0
+umap-learn==0.5.6
+hdbscan==0.8.38
